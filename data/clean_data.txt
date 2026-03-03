@@ -1,0 +1,14 @@
+CLEANED DATA
+
+This folder contains the processed and cleaned version of the sales dataset.
+
+Data Cleaning Steps Performed:
+- Removed duplicate records
+- Handled missing values
+- Corrected date format
+- Renamed columns for consistency
+- Standardized category names
+
+File Name: sales_data_cleaned.csv
+
+This cleaned dataset is used for SQL queries and dashboard creation.

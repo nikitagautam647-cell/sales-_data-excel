@@ -1,0 +1,13 @@
+RAW DATA
+
+This folder contains the original sales dataset used for analysis.
+The data is in its original form without any modifications.
+
+Details:
+- File Name: sales_data.csv
+- Format: CSV
+- Records: (write total number of rows here)
+- Columns: Order_ID, Order_Date, Product, Category, Region, Quantity, Sales, Profit
+
+Note:
+This dataset is used only for learning and analysis purposes.

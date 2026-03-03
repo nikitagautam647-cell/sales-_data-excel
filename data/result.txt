@@ -1,0 +1,13 @@
+## Results
+
+After cleaning and analyzing the sales dataset, the following insights were identified:
+
+- Total Orders: 12
+- Top Selling Product: Laptop
+- Highest Revenue Generated From: Electronics Category
+- Most Common Payment Mode: Cash / UPI
+- Highest Sales State: MP
+- Identified and handled missing values in Phone column
+- Standardized city and state names for consistency
+
+The cleaned dataset was further used for SQL analysis and dashboard creation.
